@@ -1,4 +1,5 @@
-## Driving Decarbonization in America's Transportation Sector
+## Accelerating American Decarbonization:
+### A Primer on Electric Vehicles
 ### December 15, 2021
 
 While the Infrastructure Investment and Jobs Act (IIJA) and reconciliation packages work their way through Congress, the Biden Administration has made ambitious decarbonization announcements from the executive angle. 
