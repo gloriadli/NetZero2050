@@ -1,8 +1,11 @@
-## Accelerating American Decarbonization:
-### A Primer on Electric Vehicles
+## Driving America's EV Transition
 ### December 15, 2021
 
-While the Infrastructure Investment and Jobs Act (IIJA) and reconciliation packages work their way through Congress, the Biden Administration has made ambitious decarbonization announcements from the executive angle. 
+While the Infrastructure Investment and Jobs Act (IIJA) and reconciliation packages work their way through Congress, the Biden Administration has made ambitious decarbonization announcements from the executive angle. Some notable actions that President Biden has taken include: 
+
+1. January 27, 2021 – President Biden signs the <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/"> Tackling the Climate Crisis at Home and Abroad </a> Executive Order (EO). 
+2. April 22, 2021 – President Biden announces the Nationally Determined Contribution (NDC) under the Paris Agreement, which pledges that the U.S. will cut net GHG emissions to 50-52% below 2005 levels by 2030.
+3. 
 
 On January 27, 2021, President Biden signed an executive order (EO) on “Tackling the Climate Crisis at Home and Abroad”. This EO centers the climate crisis in U.S. foreign policy and national security considerations, establishes the White House Office of Domestic Climate Policy, pauses new oil and gas leases on public lands, and directs federal agencies to develop climate resilience plans and eliminate fossil fuel subsidies where possible.  
 
@@ -14,7 +17,6 @@ In order to understand how the U.S, can feasibly achieve these decarbonization g
 
 ### Energy Consumption by Sector
 <iframe width="700" height="500" frameborder="0" scrolling="no" src="//plotly.com/~PinkishSwan/6.embed"></iframe>
-
 
 The transportation sector is currently responsible for 26% of domestic energy demand, with ~90% of that driven by petroleum use. Accordingly, the U.S. transportation sector is one of the largest GHG emitters, with over 58% of those emissions coming from light-duty vehicles (e.g., personal vehicles). ZEVs are an important tool for reducing the demand for petroleum-based fuel sources. ZEVs range from plug-in hybrid vehicles that rely partially on internal combustion engines (ICE) to battery electric vehicles with an electric powertrain. Electric motors are three times as energy efficient as ICE and require 40% less maintenance, given the fact that they use substantially fewer components. 
 
