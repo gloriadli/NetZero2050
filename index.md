@@ -29,6 +29,11 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gloriadli/NetZero2050/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Reference Cases
-<iframe width="600" height="400" frameborder="0" scrolling="no" src="//plotly.com/~PinkishSwan/2.embed"></iframe>
+### Energy Consumption by Sector
+<iframe width="700" height="500" frameborder="0" scrolling="no" src="//plotly.com/~PinkishSwan/6.embed"></iframe>
 
+### Reference Scenario
+<iframe width="700" height="500" frameborder="0" scrolling="no" src="//plotly.com/~PinkishSwan/2.embed"></iframe>
+
+### High Electrification Scenario
+<iframe width="700" height="500" frameborder="0" scrolling="no" src="//plotly.com/~PinkishSwan/4.embed"></iframe>
