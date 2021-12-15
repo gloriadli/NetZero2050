@@ -1,17 +1,6 @@
 ## Driving America's EV Transition
 ### December 15, 2021
 
-<iframe src="sankey.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="100%"
-    scrolling="yes"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
-
-Trying again
-
 While the Infrastructure Investment and Jobs Act (IIJA) and reconciliation packages work their way through Congress, the Biden Administration has made ambitious decarbonization announcements from the executive angle. Some notable actions that President Biden has taken include: 
 
 1. January 27, 2021 – President Biden signs the <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/"> Tackling the Climate Crisis at Home and Abroad </a> Executive Order (EO). 
@@ -39,4 +28,16 @@ In order to gain insight into the electrification landscape for personal vehicle
  In order to achieve the President's ZEV sales goal by 2030, automakers would need to increase the current market share of ZEVs 13-fold by the end of the decade.  
  
  The U.S. cities currently leading in the electrification of light-duty transportation are Los Angeles, New York, and Seattle.  In all three of these cities, municipal and state-level electrification goals are supplemented by the adoption of renewable energy sources as an increasing portion of the electric generation. The TEMPO model indicates that the states with the most fully electric light-duty vehicles in 2030 will be California, followed by Washington and Texas, then Florida. These will be the regions where investment in EV charging is critical. 
+
+### Rest of the Energy Ecosystem
+
+<iframe src="sankey.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="100%"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
 
