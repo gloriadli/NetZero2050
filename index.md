@@ -1,6 +1,8 @@
 ## Driving America's EV Transition
 ### December 15, 2021
 
+% include sankey.html %
+
 While the Infrastructure Investment and Jobs Act (IIJA) and reconciliation packages work their way through Congress, the Biden Administration has made ambitious decarbonization announcements from the executive angle. Some notable actions that President Biden has taken include: 
 
 1. January 27, 2021 – President Biden signs the <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/"> Tackling the Climate Crisis at Home and Abroad </a> Executive Order (EO). 
