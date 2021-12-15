@@ -29,7 +29,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gloriadli/NetZero2050/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Bokeh Sankey 
-![newplot](https://user-images.githubusercontent.com/57513903/146096725-5f207729-ab93-4f89-96d4-d688b68eb6f8.png)
-
+### Reference Cases
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~PinkishSwan/2.embed"></iframe>
 
