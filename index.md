@@ -9,7 +9,7 @@ While the Infrastructure Investment and Jobs Act (IIJA) and reconciliation packa
 
 In order to understand how the U.S, can feasibly achieve these decarbonization goals, we must examine the current state of energy consumption in the country and the largest sectoral drivers of demand. Take a look at the figure below to see how energy consumption has changed sectorally in this country over the last couple of decades.
 
-<iframe width="700" height="500" frameborder="0" scrolling="no" src="//plotly.com/~PinkishSwan/6.embed"></iframe>
+<iframe width="800" height="500" frameborder="0" scrolling="no" src="//plotly.com/~PinkishSwan/6.embed"></iframe>
 
 The transportation sector is currently responsible for 26% of domestic energy demand, with ~90% of that driven by petroleum use. Accordingly, the U.S. transportation sector is one of the largest GHG emitters, with over 58% of those emissions coming from light-duty vehicles (e.g., personal vehicles). ZEVs are an important tool for reducing the demand for petroleum-based fuel sources. ZEVs range from plug-in hybrid vehicles that rely partially on internal combustion engines (ICE) to battery electric vehicles with an electric powertrain. Electric motors are three times as energy efficient as ICE and require 40% less maintenance, given the fact that they use substantially fewer components. 
 
@@ -21,9 +21,9 @@ In order to gain insight into the electrification landscape for personal vehicle
 
 ### Decarbonizing the Transportation Sector 
 
-<iframe width="700" height="500" frameborder="0" scrolling="no" src="//plotly.com/~PinkishSwan/2.embed"></iframe>
+<iframe width="800" height="500" frameborder="0" scrolling="no" src="//plotly.com/~PinkishSwan/2.embed"></iframe>
 
-<iframe width="700" height="500" frameborder="0" scrolling="no" src="//plotly.com/~PinkishSwan/4.embed"></iframe>
+<iframe width="800" height="500" frameborder="0" scrolling="no" src="//plotly.com/~PinkishSwan/4.embed"></iframe>
 
  In order to achieve the President's ZEV sales goal by 2030, automakers would need to increase the current market share of ZEVs 13-fold by the end of the decade.  
  
@@ -34,10 +34,10 @@ In order to gain insight into the electrification landscape for personal vehicle
 <iframe src="sankey.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="1000"
+    height="800"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
 </iframe>
 
-l
+
