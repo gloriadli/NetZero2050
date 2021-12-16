@@ -25,6 +25,8 @@ In order to gain insight into the electrification landscape for personal vehicle
 
 <iframe width="800" height="500" frameborder="0" scrolling="no" src="//plotly.com/~PinkishSwan/4.embed"></iframe>
 
+<iframe width="500" height="500" frameborder="0" scrolling="no" src="//plotly.com/~PinkishSwan/2.embed"></iframe> <iframe width="500" height="500" frameborder="0" scrolling="no" src="//plotly.com/~PinkishSwan/4.embed"></iframe>
+
  In order to achieve the President's ZEV sales goal by 2030, automakers would need to increase the current market share of ZEVs 13-fold by the end of the decade.  
  
  The U.S. cities currently leading in the electrification of light-duty transportation are Los Angeles, New York, and Seattle.  In all three of these cities, municipal and state-level electrification goals are supplemented by the adoption of renewable energy sources as an increasing portion of the electric generation. The TEMPO model indicates that the states with the most fully electric light-duty vehicles in 2030 will be California, followed by Washington and Texas, then Florida. These will be the regions where investment in EV charging is critical. 
@@ -34,7 +36,7 @@ In order to gain insight into the electrification landscape for personal vehicle
 <iframe src="sankey.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="800"
+    height="900"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
