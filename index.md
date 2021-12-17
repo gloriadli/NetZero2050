@@ -1,14 +1,14 @@
 ## America's Path to Net Zero
 ### December 15, 2021
 
-While the Infrastructure Investment and Jobs Act (IIJA) and reconciliation packages work their way through Congress, the Biden Administration has made ambitious decarbonization announcements from the executive angle. Some notable actions that President Biden has taken include: 
+Since assuming office in January 2021, the Biden Administration has made ambitious decarbonization announcements with the utlimate goal of cross-sectoral net-zero emissions by 2050. Some notable executive actions that President Biden has taken include: 
 
 1. January 27, 2021 – President Biden signs the <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/"> Tackling the Climate Crisis at Home and Abroad </a> Executive Order (EO). 
 2. April 22, 2021 – President Biden announces the Nationally Determined Contribution (NDC) under the Paris Agreement, which pledges that the U.S. will cut net GHG emissions to 50-52% below 2005 levels by 2030.
 3. August 5, 2021 – President Biden signs an <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/"> EO </a> declaring a target to make 50% of all passenger vehicles and light trucks sold in 2030 zero-emissions (ZEV) vehicles, including battery electric vehicles (BEV), plug-in hybrid, or fuel cell electric vehicles. 
 4. December 8, 2021 – President Biden signs an <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-president-biden-signs-executive-order-catalyzing-americas-clean-energy-economy-through-federal-sustainability/"> EO </a> focused on federal sustainability. It mandates 100% light-duty ZEV procurement by the federal government by 2027.
 
-In order to understand how the U.S, can feasibly achieve these decarbonization goals, we must examine the current state of energy consumption in the country and the largest sectoral drivers of demand. Take a look at the figure below to see how energy consumption has changed in this country over the last couple of decades.
+In order to understand how the U.S, can feasibly achieve these decarbonization goals, we must examine the current state of energy consumption in the country and the largest sectoral drivers of demand. Take a look at the figure below to see how energy consumption has changed in this country over the last couple of decades (data from U.S. Energy Information Administration/EIA). 
 
 <iframe width="800" height="500" frameborder="0" scrolling="no" src="//plotly.com/~PinkishSwan/6.embed"></iframe>
 
@@ -37,7 +37,7 @@ There are currently ~110,000 public charging stations in the U.S., but experts s
 
 ### Rest of the Energy Ecosystem
 
-Let's take a quick look at the remaining three sectors: Commercial, Residential, and Industrial. 
+Let's take a quick look at the remaining three sectors: Commercial, Residential, and Industrial (data from <a href="https://www.eia.gov/consumption/"> EIA</a>). While electricity sales comprise electricity generation from multiple sources with varying carbon intensities, overall, fossil fuels (natural gas, coal and petroleum) still dominate. 
 
 <iframe src="sankey.html"
     sandbox="allow-same-origin allow-scripts"
@@ -48,4 +48,5 @@ Let's take a quick look at the remaining three sectors: Commercial, Residential,
     frameborder="0">
 </iframe>
 
+The industrial sector is responsible for the most energy consumed by far, which makes sense because it encompasses <a href="https://www.brookings.edu/research/the-challenge-of-decarbonizing-heavy-industry/"> energy-intensive industries </a> such as steel, cement, and chemicals. It will be difficult to decarbonize due to technical factors such as the need for high processing temperatures as well aspolitical and economic factors including low profit margins, capital intensity, and sensitivity to global trade and supply chains. This is part of the reason why this Administration is so focused on domestic consumer behavior around light-duty vehicles, as it is a market that the government may more feasibly impact. While electrification seems like ti is the future for vehicles, <a href = "https://issues.org/an-innovation-agenda-for-hard-to-decarbonize-energy-sectors/"> synthetic fuels or alternative fuels such as hydrogen </a> are looming on the horizon for industrial decarbonization and they bring with them a different set of considerations. 
 
