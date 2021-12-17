@@ -30,7 +30,10 @@ If you move the slider on both of these maps to 2030, California stands out as h
 
 In order to achieve the President's ZEV sales goal by 2030, automakers would need to increase the current market share of ZEVs 13-fold by the end of the decade. The two major <a href="https://www.forbes.com/sites/davidundercoffler/2019/09/19/why-shoppers-avoid-electric-vehicles/"> barriers </a> holding consumers back from switching to EVs are the sticker price (largely influenced by the battery cost) and lack of charging infrastucture (which induces range anxiety). Battery costs are falling and light duty EVs are <a href="https://www.utilitydive.com/news/electric-vehicle-models-expected-to-triple-in-4-years-as-declining-battery/592061/"> estimated </a> to reach price parity with interal combustion engine vehicles by 2024. However, charging station availability will remain a challenge without targeted investment. 
 
-There are currently ~110,000 public charging stations in the U.S., but experts say we need at least 5-10 times that amount to achieve the President’s light-duty vehicle sales target by 2030. The major corridors in California, Texas and Florida, as well as the Northeastern metro areas (NY, DC, Boston) will be the regions where investment in EV charging is critical to accelerate deployment and help us reach our ambitious transportation decarbonization goals in the light-duty space. 
+There are currently ~110,000 public charging stations in the U.S., but experts say we need at least 5-10 times that amount to achieve the President’s light-duty vehicle sales target by 2030. The major corridors in California, Texas and Florida, as well as the Northeastern metro areas (NY, DC, Boston) will be the regions where investment in EV charging is critical to accelerate deployment and help us reach our ambitious transportation decarbonization goals in the light-duty space. Thus, governemnt investment into building out chargers should focus first on highly trafficked corridors in these regions in order to create economies of scale within the industry and realize the EV adoption that is estimated in the TEMPO model. 
+
+![image](https://user-images.githubusercontent.com/57513903/146476756-f384d98b-043c-4501-acb3-6f8cb88ea41e.png)
+
 
 ### Rest of the Energy Ecosystem
 
