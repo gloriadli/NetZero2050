@@ -1,5 +1,5 @@
 ## America's Path to Net Zero
-### December 15, 2021
+### Updated: December 2021
 
 Since assuming office in January 2021, the Biden Administration has made ambitious decarbonization announcements with the utlimate goal of cross-sectoral net-zero emissions by 2050. Some notable executive actions that President Biden has taken include: 
 
